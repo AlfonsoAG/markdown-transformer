@@ -1,7 +1,5 @@
 # MD Transformer
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlfonsoAG/markdown-transformer/blob/main/MD_transformer.ipynb)
-
 MD Transformer es un notebook de Google Colab para convertir documentos a Markdown limpio. Está pensado para transformar PDFs, imágenes escaneadas, documentos de Word y otros archivos de Office en texto estructurado que pueda usarse como contexto para herramientas de IA.
 
 El problema que resuelve es simple: muchos documentos contienen información útil, pero vienen en formatos difíciles de consultar, fragmentar o reutilizar sin perder estructura. Markdown permite conservar títulos, tablas, páginas y bloques de texto en un formato legible, ligero y fácil de pasar a un modelo de lenguaje.
